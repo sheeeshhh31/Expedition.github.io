@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+
+.form{
+    margin: 20px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.table{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    width: 350px;
+    margin-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.input{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.line{
+    margin-top: 15px;
+}
+
+.loginbutton{
+    text-decoration: none;
+    border: 2px solid #009688;
+    border-radius: 20px;
+    background-color: #009688;
+    color: rgb(255, 255, 255);
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.loginbutton:hover{
+    text-decoration: none;
+    border: 2px solid #64dcd0;
+    border-radius: 20px;
+    background-color: #64dcd0;
+    color:  #009688;
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.googleb{
+    border: 2px rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.googleb:hover{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0.5);
+    color:  rgb(255, 255, 255);
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.facebookb{
+    border: 2px rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.facebookb:hover{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgba(0, 4, 255, 0.5);
+    color:  rgb(255, 255, 255);
+    padding: 10px 135px 10px 135px;
+    font-family: Arial, Helvetica, sans-serif;
+}
